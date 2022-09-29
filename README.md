@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys! 👋
 
 ## Career, Work
 - Netmarble(Seoul, South Korea) / Security Solution Engineer / (2018.10 ~ 2020.10)
