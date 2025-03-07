@@ -6,6 +6,5 @@
 - Netmarble(Seoul, South Korea) / Security Solution Engineer / (2018.10 ~ 2020.10)
 
 ## Certification
-![aws-certified-solutions-architect-professional-3](https://github.com/loafer-wock/loafer-wock/assets/94668752/50b95edb-b404-4202-8554-02859f0fac9c)
-![aws-certified-ai-practitioner](https://github.com/user-attachments/assets/6c621810-5668-4e61-b0f1-bd68fc751528)
-![aws-certified-ai-practitioner](https://github.com/user-attachments/assets/8d786bc9-c514-42c8-a0de-511776b6cc58)
+![aws-certified-solutions-architect-professional](https://github.com/user-attachments/assets/6aee5b22-2ef3-4ea2-98ff-2891b92a512d)
+![aws-certified-ai-practitioner](https://github.com/user-attachments/assets/e2273807-f42d-492a-9b50-05793eed9b04)
